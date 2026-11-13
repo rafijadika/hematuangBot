@@ -1,0 +1,10 @@
+aiogram>=3.0.0
+google-genai
+aiomysql
+apscheduler
+pydantic
+matplotlib
+pytz
+python-dotenv
+Pillow
+
